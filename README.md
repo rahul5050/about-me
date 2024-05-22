@@ -1,5 +1,5 @@
 # about-me
-<h1 align="center">Hi 👋, I'm rahul parmar</h1>
+<h1 align="center">Hi 👋, I'm rahul parmar</h1></br>
 <h3 align="center">A passionate software tester from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul5050&label=Profile%20views&color=0e75b6&style=flat" alt="rahul5050" /> </p>
