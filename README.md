@@ -23,6 +23,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/rahul5050"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="rahul5050" /></a></p><br><br>
 
+![qr png](https://github.com/rahul5050/about-me/assets/68609755/d59b6bd9-2237-40aa-8b65-cfaffc37d4c1)
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahul5050&show_icons=true&locale=en&layout=compact" alt="rahul5050" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahul5050&show_icons=true&locale=en" alt="rahul5050" /></p>
