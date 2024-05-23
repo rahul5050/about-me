@@ -1,5 +1,8 @@
 # about-me
 <h1 align="center">Hi 👋, I'm rahul parmar</h1></br>
+
+![rahul png](https://github.com/rahul5050/about-me/assets/68609755/26a71918-7cb8-4ac4-9a72-f34407a8e2ee)
+
 <h3 align="center">A passionate software tester from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul5050&label=Profile%20views&color=0e75b6&style=flat" alt="rahul5050" /> </p>
