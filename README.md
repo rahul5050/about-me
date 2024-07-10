@@ -1,5 +1,5 @@
-# about-me
-<h1 align="center">Hi 👋, I'm rahul parmar</h1></br>
+# About-me
+<h1 align="center" <b>Hi I'm rahul parmar</b></h1></br>
 
 ![rahul png](https://github.com/rahul5050/about-me/assets/68609755/26a71918-7cb8-4ac4-9a72-f34407a8e2ee)
 
